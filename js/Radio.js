@@ -2,10 +2,9 @@
 
 
 // 要素
-const music = new Audio('https://drive.google.com/uc?id=1jXk5QG1PEqa8HLj4bg19tRFRtDwrI2io');
+const music = new Audio('https://drive.google.com/uc?id=1ZUAwgNw5cxCYTjVb-TbJ1jEhAFkRp8JG');
 const play = document.getElementById('play');
 var img_play = document.getElementById('img_play');
-
 
 // 再生ボタン
 play.addEventListener('click', function(){
